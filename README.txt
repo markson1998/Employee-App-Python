@@ -11,3 +11,4 @@ The application generates a unique email and a five digit employee number that h
 6.Asks the user for the(percentage) valueof the end-of-year bonus and create a file into which you write the employees'names,
 employee numbers and the value of the bonuseach employee receives.
 7.Generates a report that includes the average salary earned and the largest salary earned and the name(s) of those who earn it.
+8.The application finishes and all data is backed up to employees.txt.
